@@ -1,0 +1,301 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	background-color: black;
+}
+
+.titulo {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #fff;
+	font-size: 3.3rem;
+	font-family: 'Ms Madi', cursive;
+	letter-spacing: 2px;
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+.tituloRosa {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #ff2ed5;
+	font-size: 3.3rem;
+	font-family: 'Ms Madi', cursive;
+	letter-spacing: 2px;
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+
+.contenedor {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-width: 50%;
+	height: 500px;
+	
+	margin: 0px auto;
+
+	
+}
+
+.tituloAzul {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	color:#2dffc4;
+	font-size: 3.3rem;
+	font-family: 'Ms Madi', cursive;
+	letter-spacing: 2px;
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+	
+}
+
+.tituloVerde {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #62ff2e;
+	font-size: 3.3rem;
+	font-family: 'Ms Madi', cursive;
+	letter-spacing: 2px;
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+	
+}
+
+.tituloAmarillo {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #f8ff2e;
+	font-size: 3.3rem;
+	font-family: 'Ms Madi', cursive;
+	letter-spacing: 2px;
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+	
+}
+
+
+.tituloRojo {
+		margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #ff2e2e;
+	font-size: 3.3rem;
+	font-family: 'Ms Madi', cursive;
+	letter-spacing: 2px;
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+
+	
+	
+	
+}
+
+.tituloBlanco{
+		margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #fff;
+	font-size: 3.3rem;
+	font-family: 'Ms Madi', cursive;
+	letter-spacing: 2px;
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+	
+	
+}
+
+
+
+
+
+.reloj {
+font-size: 4.3rem;
+}
+
+
+
+.change {
+  font-size: 80px;
+  color: #2dffc4;
+  text-align: center;
+  -webkit-box-shadow:0px 0px 105px 45px rgba(45,255,196,0.9);
+  -moz-box-shadow: 0px 0px 105px 45px rgba(45,255,196,0.9);
+  box-shadow: 0px 0px 105px 45px rgba(45,255,196,0.9);
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+ 
+	
+}
+
+.glow  {
+  font-size: 80px;
+  color: #fff;
+  text-align: center;
+  -webkit-box-shadow:0px 0px 105px 45px rgba(252,252,252,0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(252,252,252,0.9);
+box-shadow: 0px 0px 105px 45px rgba(252,252,252,0.9);
+-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+
+.rosa  {
+  font-size: 80px;
+  color: #ff2ed5;
+  text-align: center;
+  -webkit-box-shadow:0px 0px 105px 45px rgba(255,46,213,0.9);
+  -moz-box-shadow: 0px 0px 105px 45px rgba(255,46,213,0.9);
+  box-shadow: 0px 0px 105px 45px rgba(255,46,213,0.9);
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+.verde {
+  font-size: 80px;
+  color:  #62ff2e;
+  text-align: center;
+  -webkit-box-shadow:0px 0px 105px 45px rgba(98,255,46,0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(98,255,46,0.9);
+box-shadow: 0px 0px 105px 45px rgba(98,255,46,0.9);
+-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+ 
+	
+}
+
+.amarillo {
+	 font-size: 80px;
+  color:  #f8ff2e;
+  text-align: center;
+-webkit-box-shadow:0px 0px 105px 45px rgba(248,255,46,0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(248,255,46,0.9);
+box-shadow: 0px 0px 105px 45px rgba(248,255,46,0.9);
+-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+	
+}
+
+.rojo {
+	 font-size: 80px;
+  color:  #ff2e2e;
+  text-align: center;
+-webkit-box-shadow:0px 0px 105px 45px rgba(255,46,46,0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(255,46,46,0.9);
+box-shadow: 0px 0px 105px 45px rgba(255,46,46,0.9);
+-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+	
+	
+}
+
+.blanco {
+	 font-size: 80px;
+  color:  #fff;
+  text-align: center;
+-webkit-box-shadow:0px 0px 105px 45px rgba(252,252,252,0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(252,252,252,0.9);
+box-shadow: 0px 0px 105px 45px rgba(252,252,252,0.9);
+
+
+-webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+	
+	
+}
+
+
+
+.boton {
+	width: 50px;
+	height: 50px;
+	border: 2px solid white;
+	cursor: pointer;
+}
+
+.boton-azul {
+	background-color: #2dffc4;	
+}
+
+.boton-verde {
+	background-color: #62ff2e;
+}
+
+.boton-amarillo {
+	background-color: #f8ff2e;
+}
+
+.boton-rosa {
+	background-color: #ff2ed5;
+}
+
+.boton-rojo {
+	background-color: #ff2e2e;
+}
+.boton-blanco {
+	background-color: #fff;
+	
+}
+
+
+.titulo-eleccion {
+font-size:3.3rem;
+  text-align: center;
+  font-family: 'Ms Madi', cursive;
+  color:white;
+  font-family: ;
+  animation-name:glow;
+  animation-duration:1s;
+  animation-iteration-count:infinite;
+  animation-direction:alternate;
+	
+}
+
+@keyframes glow{
+  from{text-shadow:0px 0px 5px #fff,0px 0px 5px #614ad3;}
+  to{text-shadow:0px 0px 20px #fff,0px 0px 20px #614ad3;}
+}
+
+
+
+.botonera {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+	min-width: 50%;
+	height: 100px;
+	
+	margin : 0 auto;
+}
+
+
+
